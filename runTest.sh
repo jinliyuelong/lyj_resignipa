@@ -1,0 +1,1 @@
+./lyj_resignipa.sh -i "/Users/liyanjun/work/02ios/01海马汇改造/09编程马拉松/01重新签名/01ipa源文件/CICC.ipa" -b "com.hand.hippiusDevelop" -m "/Users/liyanjun/work/02ios/01海马汇改造/09编程马拉松/01重新签名/04重签名的描述文件/hippiusDevelopadhoc.mobileprovision" -f "/Users/liyanjun/work/02ios/01海马汇改造/09编程马拉松/01重新签名/04重签名的描述文件/证书2020.p12" -p "handhand"
